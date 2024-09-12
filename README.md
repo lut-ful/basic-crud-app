@@ -100,7 +100,7 @@ catch(Exception ex)
 - **Error Handling**: Implement error handling for database connection failures or invalid inputs.
 
 ## Further Enhancements
-- **Search Functionality**: Add a search bar to filter records.
+- **Search Functionality**: Added a search bar to filter records.
 
 ## How to Run the Project
 1. **Clone the Repository**: Clone this repository to your local machine.
