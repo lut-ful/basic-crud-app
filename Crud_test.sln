@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic crud app", "basic crud app.csproj", "{544A7CB6-7CCD-472C-B2F1-5256F4C134B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic_crud_app", "basic_crud_app.csproj", "{544A7CB6-7CCD-472C-B2F1-5256F4C134B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
