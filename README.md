@@ -42,13 +42,15 @@ This project is a basic **CRUD (Create, Read, Update, Delete)** application deve
      private readonly string connectionString = "Server=<YOUR DATABASE SERVER/SOURCE>;Database=<DATABASENAME>;Trusted_Connection=True;";
 -Database Schema.
 
-![image](https://github.com/user-attachments/assets/5b0a6afe-c0af-433c-b699-18d99564ba1a)
+![Screenshot 2024-09-13 012458](https://github.com/user-attachments/assets/1bd53e35-2260-413f-9b4e-cebeaae12356)
+
 
 ### 2. Form Design
 - **DataGridView**: Displays records from the database.
 - **Textboxes**: Input fields for adding/editing records.
 - **Buttons**: Implement buttons for Create, Read, Update, Delete, and Refresh operations.
-![image](https://github.com/user-attachments/assets/488fd82a-a193-4ab9-8c95-207fbdc50698)
+![Screenshot 2024-09-13 011050](https://github.com/user-attachments/assets/590ed2a7-0330-4d73-b071-1e1142ab75cf)
+
 
 ### 3. C# Code Implementation
 
