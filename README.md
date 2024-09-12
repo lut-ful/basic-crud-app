@@ -108,5 +108,5 @@ catch(Exception ex)
    git clone https://github.com/lut-ful/basic-crud-app
    ```
 2. **Set Up the Database**: Configure your SQL Server or SQLite database and update the connection according to the `script.sql` file.
-3. **Build the Project**: Open the project in Visual Studio and build the solution.
+3. **Build the Project**: Open the project `basic_crud_app.csproj` in Visual Studio and build the solution.
 4. **Run the Application**: Once built, run the application and manage records through the Windows Forms interface.
