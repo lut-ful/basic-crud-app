@@ -40,7 +40,7 @@ demonstration video: https://www.youtube.com/watch?v=RzhPkXy50Y4
    - Update this to:
      ```csharp
      private readonly string connectionString = "Server=<YOUR DATABASE SERVER/SOURCE>;Database=<DATABASENAME>;Trusted_Connection=True;";
--Database Schema.
+- Database Schema.
 
 ![Screenshot 2024-09-13 012458](https://github.com/user-attachments/assets/1bd53e35-2260-413f-9b4e-cebeaae12356)
 
