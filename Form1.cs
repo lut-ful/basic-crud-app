@@ -297,8 +297,8 @@ namespace Crud_test
                         dr = cm.ExecuteReader();
                         while (dr.Read())
                         {
-                            i++;
-                            dataGridView1.Rows.Add(dr["Employeeid"].ToString(), i, dr["FirstName"].ToString(), dr["MiddleName"].ToString(), dr["LastName"].ToString());
+
+                            dataGridView1.Rows.Add(dr["Employeeid"].ToString(), dr["FirstName"].ToString(), dr["MiddleName"].ToString(), dr["LastName"].ToString());
                         }
                         dr.Close();
                     }
